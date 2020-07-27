@@ -2,7 +2,8 @@
 
 
 dotnet powershell commands:
-1. dotnet new console
-2. dotnet run
+>dotnet new console -> create new C# app
+>dotnet run -> run the app
+>code . -> launch VSCode from current dir
 
 
